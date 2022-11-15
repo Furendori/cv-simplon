@@ -1,0 +1,17 @@
+.profil{
+    width: 300px;
+    height: 300px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.prenom{
+    font-size: large;
+    padding-left: 165px;
+    padding-top: 10px;
+}
+
+.nom{
+    font-size: larger;
+    padding-left: 135px;
+}
