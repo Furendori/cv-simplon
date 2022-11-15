@@ -6,24 +6,24 @@
 }
 
 #prenom{
-    font-size: larger;
-    padding-left: 165px;
+    font-size: x-large;
+    padding-left: 160px;
     padding-top: 10px;
     font-family: 'Marck Script', cursive;
 }
 
 #nom{
     font-size: x-large;
-    padding-left: 135px;
+    padding-left: 125px;
 }
 
 #naissance{
     font-size: larger;
-    padding-left: 140px;
+    padding-left: 145px;
 }
 
 .metier{
-    padding-left: 85px;
+    padding-left: 90px;
     font-size: larger;
 }
 
@@ -34,11 +34,95 @@
 .positionnement{
     margin-right: 150px;
     margin-left: 100px;
-    border: 3px solid black;
+    border-right: 1px solid rgb(0, 0, 0);
     padding-left: 100px;
     padding-right: 100px;
 }
 
 .desc{
     font-size: large;
+    padding-left: 95px;
+}
+
+.sect{
+    padding-left: 90px;
+}
+
+#contact{
+    font-size: xx-large;
+}
+
+.tel{
+    padding-left: 20px;
+}
+
+#postal{
+    padding-left: 20px;
+}
+
+#interet{
+    font-size: xx-large;
+}
+
+#interets{
+    font-size: large;
+}
+
+#hr1{
+    width: 50%;
+    margin-right: 50%;
+}
+
+#simplon1{
+    font-weight: bold;
+    font-size: large;
+}
+
+#afpa1{
+    font-weight: bold;
+    font-size: large;
+}
+
+.afpa2{
+    font-weight: bold;
+    font-size: large;
+}
+
+.simplon2{
+    font-weight: bold;
+    font-size: large;
+}
+
+.epil{
+    font-weight: bold;
+    font-size: large;
+}
+
+.hr2{
+    width: 50%;
+    margin-right: 50%;
+}
+
+.exp{
+    padding-top: 5%;
+}
+
+.lasalle1{
+    font-weight: bold;
+    font-size: large;
+}
+
+.lasalle2{
+    font-weight: bold;
+    font-size: large;
+}
+
+.syma{
+    font-weight: bold;
+    font-size: large;
+}
+
+.hr3{
+    width: 50%;
+    margin-right: 50%;
 }
