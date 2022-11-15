@@ -5,13 +5,40 @@
     padding-top: 40px;
 }
 
-.prenom{
-    font-size: large;
+#prenom{
+    font-size: larger;
     padding-left: 165px;
     padding-top: 10px;
+    font-family: 'Marck Script', cursive;
 }
 
-.nom{
-    font-size: larger;
+#nom{
+    font-size: x-large;
     padding-left: 135px;
+}
+
+#naissance{
+    font-size: larger;
+    padding-left: 140px;
+}
+
+.metier{
+    padding-left: 85px;
+    font-size: larger;
+}
+
+.sec{
+    display: flex;
+}
+
+.positionnement{
+    margin-right: 150px;
+    margin-left: 100px;
+    border: 3px solid black;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.desc{
+    font-size: large;
 }
