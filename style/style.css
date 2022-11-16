@@ -15,6 +15,7 @@
 #nom{
     font-size: x-large;
     padding-left: 125px;
+    font-family: 'Petit Formal Script', cursive;
 }
 
 #naissance{
@@ -23,8 +24,9 @@
 }
 
 .metier{
-    padding-left: 90px;
+    padding-left: 75px;
     font-size: larger;
+    font-family: 'Playball', cursive;
 }
 
 .sec{
@@ -32,16 +34,17 @@
 }
 
 .positionnement{
-    margin-right: 150px;
+    margin-right: 100px;
     margin-left: 100px;
     border-right: 1px solid rgb(0, 0, 0);
-    padding-left: 100px;
+    padding-left: 30px;
     padding-right: 100px;
 }
 
 .desc{
     font-size: large;
-    padding-left: 95px;
+    padding-left: 90px;
+    font-family: 'Knewave', cursive;
 }
 
 .sect{
@@ -125,4 +128,8 @@
 .hr3{
     width: 50%;
     margin-right: 50%;
+}
+
+.comp{
+    padding-top: 5%;
 }
